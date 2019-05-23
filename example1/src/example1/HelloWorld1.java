@@ -4,8 +4,8 @@ public class HelloWorld1 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Hello World!");
-		System.out.println("Hello wrold 2!!");
+		if(true)
+			System.out.println("Speriamo non si rompa");
 	}
 
 }
